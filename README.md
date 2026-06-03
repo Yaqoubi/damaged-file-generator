@@ -1,12 +1,10 @@
-# 📄 Fake Damaged File Generator
+# 📄 Damaged File Generator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Made with JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-1abc9c.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-2ea44f)](https://yaqoubi.github.io/damaged-file-generator)
 
 > Generate fake corrupted files with valid headers but random, unreadable content.
-
-![Demo Preview](https://via.placeholder.com/800x400?text=Fake+Damaged+File+Generator+Preview)
 
 ## 🌟 Features
 
@@ -27,7 +25,7 @@
 
 ## 🚀 Live Demo
 
-[**Try it now →**](https://your-username.github.io/fake-damaged-file-generator)
+**Try it now:** [https://yaqoubi.github.io/damaged-file-generator](https://yaqoubi.github.io/damaged-file-generator)
 
 ## 🛠️ Supported File Types
 
@@ -42,10 +40,10 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/fake-damaged-file-generator.git
+git clone https://github.com/Yaqoubi/damaged-file-generator.git
 
 # Navigate to project directory
-cd fake-damaged-file-generator
+cd damaged-file-generator
 
 # Open in browser (any web server works)
 # Using Python:
